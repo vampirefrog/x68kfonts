@@ -1,2 +1,4 @@
-# x68kfonts
-# x68kfonts
+Sharp X68000 fonts
+==================
+
+
